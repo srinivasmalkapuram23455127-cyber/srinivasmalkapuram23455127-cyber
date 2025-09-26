@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Srinivas Malkapuram
 
-<!--
-**srinivasmalkapuram23455127-cyber/srinivasmalkapuram23455127-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Innovator | Quantum Computing Explorer | Cybersecurity Researcher  
 
-Here are some ideas to get you started:
+🔹 Creator of **ImperiumOS: Quantum Defence AI**  
+🔹 Specialized in AI Security, Quantum Algorithms & Defence Systems  
+🔹 Passionate about building scalable AI with real-world impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Domains
+- Artificial Intelligence & Machine Learning (Deep Learning, Reinforcement Learning)
+- Quantum Computing & Algorithms
+- AI-Driven Cybersecurity Architecture
+- High-Performance Computing & Cloud Systems
+- Secure Systems Design  
+
+---
+
+## 📂 Featured Project
+### 🔐 ImperiumOS – Quantum Defence AI
+- Hybrid AI + Quantum-powered cybersecurity system  
+- Designed with adaptive threat intelligence, 20+ googolplexianth layered firewall security  
+- Autonomous defence & learning framework  
+
+
+---
+
+## 🌍 Connect with Me
+- [LinkedIn](www.linkedin.com/in/srinivas-malkapuram-110b84386)
+- 📧 your_email_here
+
