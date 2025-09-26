@@ -28,5 +28,5 @@
 
 ## 🌍 Connect with Me
 - [LinkedIn](www.linkedin.com/in/srinivas-malkapuram-110b84386)
-- 📧 your_email_here
+- EMAIL HERE (srinivasmalkapuram23455127@gmail.com)
 
